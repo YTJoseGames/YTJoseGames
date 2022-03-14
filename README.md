@@ -32,10 +32,10 @@
 
 # Discord Server 💻
 
-**Tenho um servidor no discord em que ajudo pessoas que estão iniciando em DJS, Js e Lua. Temos um suporte muito grande a todo mundo e sempre estamos tentando ajudar a todos.
-O nosso princípal suporte é DJS (Discord JavaScript)
+**Tenho um servidor no discord em que ajudo pessoas que estão iniciando em DJS, Js e Lua. Temos um suporte muito grande a todo mundo e sempre estamos tentando ajudar a todos.**
+**O nosso princípal suporte é DJS (Discord JavaScript)**
 
-Também temos outras coisas em nosso servidor, como:
+**Também temos outras coisas em nosso servidor, como:
 Cheats para Roblox;
 Scripts Free em DJS;
 Suporte Free;
