@@ -46,3 +46,6 @@ Eventos;
 E Muito mais!**
 
 <img height="325" src="https://imgur.com/jic6g8y.png">
+
+**A July é um Bot Multi-Funções, como: Moderação, Economia, Interação, Geral e Moderação.**
+**Ela está constantemente sendo atualizada e bugs sendo removidos**
