@@ -54,4 +54,4 @@ E Muito mais!**
 
 ![YTJoseGames GitHub stats](https://github-readme-stats.vercel.app/api?username=YTJoseGames&show_icons=true&theme=tokyonight&hide_title=true)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTJoseGames&layout=compact&theme=tokyonight&hide_title=true)](https://github.com/markimg22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTJoseGames&layout=compact&theme=tokyonight&hide_title=true)](https://github.com/YTJoseGames/github-readme-stats)
