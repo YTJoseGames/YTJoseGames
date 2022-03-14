@@ -29,7 +29,4 @@
 <code>
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
 </code>
-<code>
-  <img height="40" src="https://logodownload.org/wp-content/uploads/2017/04/java-logo.png">
-</code>
 
