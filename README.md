@@ -45,4 +45,4 @@ Interação;
 Eventos; 
 E Muito mais!**
 
-<img height="325" width= "100" src="https://imgur.com/jic6g8y.png">
+<img height="325" width= "800" src="https://imgur.com/jic6g8y.png">
