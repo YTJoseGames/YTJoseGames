@@ -30,6 +30,6 @@
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
 </code>
 <code>
-  <img height="40" src="https://logospng.org/wp-content/uploads/java.png">
+  <img height="40" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/image_view_fullscreen">
 </code>
 
