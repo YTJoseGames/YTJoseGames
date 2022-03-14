@@ -32,6 +32,8 @@
 
 # Discord Server 💻
 
+<img height="300" src="https://imgur.com/fK5tS2t.png">
+
 **Tenho um servidor no discord em que ajudo pessoas que estão iniciando em DJS, Js e Lua. Temos um suporte muito grande a todo mundo e sempre estamos tentando ajudar a todos.**
 **O nosso princípal suporte é DJS (Discord JavaScript)**
 
@@ -42,3 +44,4 @@ Suporte Free;
 Interação;
 Eventos; 
 E Muito mais!**
+
