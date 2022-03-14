@@ -3,7 +3,7 @@
 **Me chamo José, Estudo Back-End e Front-End. 👀**
 
 <a href="https://youtube.com/YTJoseGames" target="_blank">
-  <img alt="Marcos's LinkdeIN" height="40px" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" >
+  <img alt="José YouTube Channel" height="40px" src="https://rotony.com.br/wp-content/uploads/2021/09/free-youtube-logo-icon-2431-thumb.png" >
 </a>
 <a href="https://www.instagram.com/markimg22/" target="_blank">
   <img alt="Marcos's Instagram" height="40px" src="https://mairacuryteam.com.br/wp-content/uploads/2019/05/logo-instagram-png-fundo-transparente13-1.png" />
