@@ -49,3 +49,9 @@ E Muito mais!**
 
 **A July é um Bot Multi-Funções, como: Moderação, Economia, Interação, Geral e Moderação.**
 **Ela está constantemente sendo atualizada e bugs sendo removidos**
+
+## GitHub Status:
+
+![YTJoseGames GitHub stats](https://github-readme-stats.vercel.app/api?username=YTJoseGames&show_icons=true&theme=tokyonight&hide_title=true)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTJoseGames&layout=compact&theme=tokyonight&hide_title=true)](https://github.com/markimg22/github-readme-stats)
