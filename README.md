@@ -34,4 +34,3 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![GitHub]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/YTJoseGames)
-[![Discord (Em Breve)]
