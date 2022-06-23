@@ -1,51 +1,37 @@
-# Olá a Todos! 👋
 
-**Me chamo José, Estudo Back-End e Front-End. 👀**
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<a href="https://youtube.com/YTJoseGames" target="_blank">
-  <img alt="José YouTube Channel" height="40px" src="https://rotony.com.br/wp-content/uploads/2021/09/free-youtube-logo-icon-2431-thumb.png" >
+<h3> :woman: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias
+- 🎓 &nbsp; Estudando **JavaScript & Python**
+- 💼 &nbsp; Trabalhando como **DJs Creator**
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript, Python, Html e Css**.
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
 </a>
-<a href="https://www.instagram.com/ytjosegamesoficial/" target="_blank">
-  <img alt="José Instagram Profile" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-</a>
-<a href="https://dsc.gg/comunidadeyt" target="_blank">
-  <img alt="José Discord Server" height="40px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" />
-</a>
 
-# Ferramentas e Linguagens que utilizo 🔨
+<br/>
 
-<code>
-  <img height="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png">
-</code>
-<code>
-  <img height="40" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png">
-</code>
-<code>
-  <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png">
-</code>
-<code>
-  <img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
-</code>
-<code>
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
-</code>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-# Discord Server 💻
-
-<img height="300" src="https://imgur.com/fK5tS2t.png">
-
-**Tenho um servidor no discord em que ajudo pessoas que estão iniciando em DJS, Js e Lua. Temos um suporte muito grande a todo mundo e sempre estamos tentando ajudar a todos.**
-**O nosso princípal suporte é DJS (Discord JavaScript)**
-
-**Também temos outras coisas em nosso servidor, como:
-Cheats para Roblox;
-Scripts Free em DJS;
-Suporte Free;
-Interação;
-Eventos; 
-E Muito mais!**
-
-<img height="325" src="https://imgur.com/jic6g8y.png">
-
-**A July é um Bot Multi-Funções, como: Moderação, Economia, Interação, Geral e Moderação.**
-**Ela está constantemente sendo atualizada e bugs sendo removidos**
+[![GitHub]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/YTJoseGames)
+[![Discord (Em Breve)]
