@@ -34,11 +34,11 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 <p align="left">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <a href="https://www.instagram.com/ytjosegamesoficial/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/ytjosegamesoficial"/>
   </a>
   
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord (Em Breve)">
+  <a href="https://discord.gg" alt="Discord (Em Breve)">
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg"/>
   </a>
 </p>
