@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=YTJoseGames&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
@@ -25,12 +25,12 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+<a href="https://github.com/YTJoseGames">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YTJoseGames&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![GitHub]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/YTJoseGames)
+[![GitHub]( https://img.shields.io/github/followers/YTJoseGames?label=follow&style=social)](https://github.com/YTJoseGames)
